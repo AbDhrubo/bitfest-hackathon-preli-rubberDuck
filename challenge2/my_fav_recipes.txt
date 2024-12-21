@@ -1,0 +1,13 @@
+Chocolate Cake
+["flour", "sugar", "cocoa powder", "eggs"]
+sweet
+dessert
+45
+4.5
+
+Spaghetti Bolognese
+["spaghetti", "tomato sauce", "minced meat", "onion"]
+savory
+Italian
+30
+4.7
