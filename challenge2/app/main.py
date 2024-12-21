@@ -1,4 +1,4 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, HTTPException
 from app.routers import ingredients, recipes, chatbot
 from app.database import Base, engine
 from app.models import Ingredient
