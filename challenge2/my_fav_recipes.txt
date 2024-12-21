@@ -1,13 +1,20 @@
-Chocolate Cake
-["flour", "sugar", "cocoa powder", "eggs"]
-sweet
-dessert
-45
-4.5
+Recipe ID: 1
+Recipe Text: Recipe Title: Caesar Salad
+Steps: Toss lettuce, croutons, and Parmesan cheese. Prepare the dressing with olive oil, garlic, lemon juice, and anchovies. Drizzle the dressing over the salad and serve.
 
-Spaghetti Bolognese
-["spaghetti", "tomato sauce", "minced meat", "onion"]
-savory
-Italian
-30
-4.7
+Recipe ID: 2
+Recipe Text: Recipe Title: Chocolate Cake
+Steps: Mix cocoa, sugar, flour, and eggs. Bake at 350°F for 25 minutes. Let it cool and frost with chocolate icing.
+
+Recipe ID: 3
+Recipe Text: Recipe Title: Spicy Chicken Curry
+Steps: Marinate chicken with spices. Sauté onions, tomatoes, and garlic in oil. Add chicken and cook until tender. Serve with rice or naan.
+
+Recipe ID: 4
+Recipe Text: Recipe Title: Sushi Rolls
+Steps: Cook and season sushi rice. Place rice on nori, add fish and vegetables, and roll tightly. Slice into pieces and serve with soy sauce and wasabi.
+
+Recipe ID: 5
+Recipe Text: Recipe Title: Classic Pancakes
+Steps: Mix flour, sugar, baking powder, milk, and eggs. Cook on a hot griddle until golden. Serve with syrup and butter.
+
