@@ -18,3 +18,7 @@ Recipe ID: 5
 Recipe Text: Recipe Title: Classic Pancakes
 Steps: Mix flour, sugar, baking powder, milk, and eggs. Cook on a hot griddle until golden. Serve with syrup and butter.
 
+Recipe ID: 6
+Recipe Text: Recipe Title: Sushi Rolls
+Steps: Cook and season sushi rice. Place rice on nori, add fish and vegetables, and roll tightly. Slice into pieces and serve with soy sauce and wasabi.
+
